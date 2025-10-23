@@ -12,7 +12,7 @@
 | S.No | Organization | Project | Technology | Link to PRs | Link to Merged PRs |
 |------|---------------|----------|-------------|--------------|-------------------------|
 | 1 | WordPress | Gutenberg | React, PHP | [PRs](https://github.com/WordPress/gutenberg/pulls/sidharthpandita1) | [PRs](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Asidharthpandita1+is%3Aclosed) |
-| 2 | Corover.ai | Chatbot for Clients | React, Express | - | - |
+
 
 ---
 
