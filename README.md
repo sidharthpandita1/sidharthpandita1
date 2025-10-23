@@ -24,8 +24,8 @@
 ---
 
 ### 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/sidharthpandita)
-- [GitHub](https://github.com/sidharthpandita)
+- [LinkedIn](https://www.linkedin.com/in/sidharth-pandita-57ba7b1b7/)
+- [GitHub](https://github.com/sidharthpandita1)
 - [Portfolio Website](#)
 
 ---
