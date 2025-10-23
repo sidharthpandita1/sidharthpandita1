@@ -11,7 +11,7 @@
 
 | S.No | Organization | Project | Technology | Link to PRs | Link to Created Issues |
 |------|---------------|----------|-------------|--------------|-------------------------|
-| 1 | WordPress | Gutenberg | React, PHP | [PRs](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Asidharthpandita) | [Issues](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue+author%3Asidharthpandita) |
+| 1 | WordPress | Gutenberg | React, PHP | [PRs](https://github.com/WordPress/gutenberg/pulls/sidharthpandita1) | [Issues](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue+author%3Asidharthpandita) |
 | 2 | Corover.ai | Chatbot for Clients | React, Express | - | - |
 
 ---
